@@ -1,0 +1,61 @@
+[
+  {
+    "question": "Which endpoint creates orders?",
+    "expected_file": "order.routes.js"
+  },
+
+  {
+    "question": "How is total amount calculated?",
+    "expected_file": "order.controller.js"
+  },
+
+  {
+    "question": "How is order status updated?",
+    "expected_file": "order.controller.js"
+  },
+
+  {
+    "question": "Where are order line items stored?",
+    "expected_file": "orderLineItem.model.js"
+  },
+
+  {
+    "question": "What happens if a drink is unavailable?",
+    "expected_file": "order.controller.js"
+  },
+
+  {
+    "question": "Which model stores order totals?",
+    "expected_file": "orderMaster.model.js"
+  },
+
+  {
+    "question": "Which screen displays order success?",
+    "expected_file": "OrderSuccessScreen.tsx"
+  },
+
+  {
+    "question": "Where is quiz state managed?",
+    "expected_file": "useQuizStore.ts"
+  },
+
+  {
+    "question": "How are recommendation scores computed?",
+    "expected_file": "scorer_v3.js"
+  },
+
+  {
+    "question": "Where is mismatch penalty applied?",
+    "expected_file": "mismatchPenalty_v2.js"
+  },
+
+  {
+    "question": "Which route handles recommendations?",
+    "expected_file": "recommend.js"
+  },
+
+  {
+    "question": "Which frontend page shows cart items?",
+    "expected_file": "CartScreen.tsx"
+  }
+]
