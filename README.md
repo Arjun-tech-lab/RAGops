@@ -161,7 +161,7 @@ Prerequisites
 
 Step 1 — Clone Repository
 
-git clone https://github.com/yourusername/ragops.git
+git clone https://github.com/Arjun-tech-lab/RAGops.git
 cd ragops
 
 
